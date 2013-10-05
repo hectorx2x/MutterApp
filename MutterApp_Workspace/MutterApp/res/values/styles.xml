@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+    <color name="celeste">#BEF2FF</color>
+    <color name="verdecania">#9afa63</color>
+    <color name="naranja">#fab963</color>
+    <color name="rosadopur">#FA6D63</color>
+    
+
+</resources>
